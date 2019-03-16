@@ -2,6 +2,9 @@
 
 This is a sample Node.js eCommerce website with content managed with prismic.io (API-based CMS).
 
+### DG Instructions
+https://user-guides.prismic.io/examples/nodejs-samples/sample-ecommerce-site-with-snipcart-in-nodejs
+
 #### Getting started
 
 Read [this guide](https://intercom.help/prismicio/examples/nodejs-samples/sample-ecommerce-site-with-snipcart-in-nodejs) for instructions to create your repository and use this sample eCommerce site.

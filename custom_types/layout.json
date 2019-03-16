@@ -3,7 +3,7 @@
     "title" : {
       "type" : "StructuredText",
       "config" : {
-        "placeholder" : "Document title...",
+        "placeholder" : "Document title test...",
         "single" : "heading1"
       }
     },

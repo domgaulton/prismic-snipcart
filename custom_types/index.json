@@ -13,14 +13,4 @@
   "name": "Product",
   "repeatable": true,
   "value": "product.json"
-}, {
-  "id": "bloghome",
-  "name": "Blog Home",
-  "repeatable": false,
-  "value": "bloghome.json"
-}, {
-  "id": "post",
-  "name": "Blog Post",
-  "repeatable": true,
-  "value": "post.json"
 }]

@@ -46,7 +46,7 @@ $ heroku open
 heroku  https://git.heroku.com/prismic-snipcart.git (fetch)
 heroku  https://git.heroku.com/prismic-snipcart.git (push)
 
-`git push origin master`
+`git push origin master` or `git push origin 'branch-name'`
 origin  https://github.com/domgaulton/prismic-snipcart.git (fetch)
 origin  https://github.com/domgaulton/prismic-snipcart.git (push)
 

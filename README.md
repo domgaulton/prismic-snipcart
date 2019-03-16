@@ -13,6 +13,7 @@ https://nodemon.io/ - Nodemon is a utility that will monitor for any changes in 
 
 #### Running
 `npm start` or `nodemon` if installed
+Running SASS `npm run dev`
 
 #### Deploy your Node.js website
 An easy way to deploy your Node.js website is to use [Heroku](http://www.heroku.com). Just follow these few simple steps once you have successfully [signed up](https://id.heroku.com/signup/www-header) and [installed the Heroku toolbelt](https://toolbelt.heroku.com/):
@@ -53,7 +54,7 @@ origin  https://github.com/domgaulton/prismic-snipcart.git (push)
 
 ### TO DO
 * Custom Types json object add to repo and API
-* SASS and components
+* SASS and components 
 
 ### Licence
 

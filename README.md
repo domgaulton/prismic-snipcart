@@ -9,6 +9,13 @@ https://user-guides.prismic.io/examples/nodejs-samples/sample-ecommerce-site-wit
 
 Read [this guide](https://intercom.help/prismicio/examples/nodejs-samples/sample-ecommerce-site-with-snipcart-in-nodejs) for instructions to create your repository and use this sample eCommerce site.
 
+#### Nodemon
+https://nodemon.io/ - Nodemon is a utility that will monitor for any changes in your source and automatically restart your server. Perfect for development. Install it using npm.
+
+
+#### Running
+`npm start` or `nodemon` if installed
+
 #### Deploy your Node.js website
 
 An easy way to deploy your Node.js website is to use [Heroku](http://www.heroku.com). Just follow these few simple steps once you have successfully [signed up](https://id.heroku.com/signup/www-header) and [installed the Heroku toolbelt](https://toolbelt.heroku.com/):
@@ -45,6 +52,15 @@ You can now browse your application online:
 ```
 $ heroku open
 ```
+
+### Git Repositories
+`git push heroku master`
+heroku  https://git.heroku.com/prismic-snipcart.git (fetch)
+heroku  https://git.heroku.com/prismic-snipcart.git (push)
+
+`git push origin master`
+origin  https://github.com/domgaulton/prismic-snipcart.git (fetch)
+origin  https://github.com/domgaulton/prismic-snipcart.git (push)
 
 ### Licence
 
